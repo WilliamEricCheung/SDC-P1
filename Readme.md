@@ -18,6 +18,8 @@ The goals / steps of this project are the following:
 [image5]: ./test_images/processed_solidYellowLeft.jpg "SolidYellowLeftOutput"
 
 [image6]: ./test_images/processed_whiteCarLaneSwitch.jpg "WhiteCarLaneSwitchOutput"
+
+
 ---
 
 ### Reflection
